@@ -1,4 +1,4 @@
-# Bluebits
+# Binod_E-Shop
 
 This project was generated using [Nx](https://nx.dev).
 
@@ -24,8 +24,6 @@ Below are our core plugins:
 
 - [Angular](https://angular.io)
   - `ng add @nrwl/angular`
-- [React](https://reactjs.org)
-  - `ng add @nrwl/react`
 - Web (no framework frontends)
   - `ng add @nrwl/web`
 - [Nest](https://nestjs.com)
